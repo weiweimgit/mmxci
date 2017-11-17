@@ -1,6 +1,6 @@
 
 -- create tables under mmxci
-create table mmxci;
+-- create table mmxci;
 grant all PRIVILEGES on mmxci.* to mmxci@localhost IDENTIFIED by '!1234roon';
 flush PRIVILEGES;
 
